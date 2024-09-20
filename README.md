@@ -17,3 +17,4 @@ PTETHCAT Ethnicity
 PTRACCAT Race
 APOE4	APOE4 genotype
 MMSE	MMSE score for Alzheimers Disease, FIT ORDINAL REGRESSION, perform predictions.
+selected function(factor, glm.predict, ordinal.fit)
