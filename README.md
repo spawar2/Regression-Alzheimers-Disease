@@ -1,5 +1,5 @@
 [R: MASS, car, glm.predict].
-Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, USA.
+Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, United States of America (USA).
 https://campuspress.yale.edu/shrikantpawar/
 
 Regression-Alzheimers-Disease.R: Read variables Subject (PTID) Participant ID
