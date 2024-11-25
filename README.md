@@ -19,4 +19,4 @@ APOE4	APOE4 genotype
 MMSE	MMSE score for Alzheimers Disease, FIT ORDINAL REGRESSION, perform predictions.
 selected function(factor, glm.predict, ordinal.fit).
 
-table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069
+table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
